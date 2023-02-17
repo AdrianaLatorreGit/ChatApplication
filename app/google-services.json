@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459388782726",
+    "project_id": "chatapplication-da584",
+    "storage_bucket": "chatapplication-da584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459388782726:android:53634e9a830d1377652907",
+        "android_client_info": {
+          "package_name": "com.adrianalatorre.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459388782726-3njrmasgafdo5mkvsialqb8opfvtpmv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGtjs0cLoxDt2zCJ6ifhQ9c0CoYlMzR44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459388782726-3njrmasgafdo5mkvsialqb8opfvtpmv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
